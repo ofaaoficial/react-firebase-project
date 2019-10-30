@@ -1,5 +1,7 @@
 
-# Books management
+# Books management (React & Firebase)
+Basic react application with firebase.
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) is a basic example. 
   
 ## Installation & test 📥
